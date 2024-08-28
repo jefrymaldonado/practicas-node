@@ -28,6 +28,7 @@ const createFileTable = (base, listar, hasta) => {
     })
 }
 
+//git checkout -- .
 
 module.exports = {
     createFileTable
